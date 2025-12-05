@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../MiApp"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/proyecto-hoyoverse"
+		},
+		{
+			"path": "../../../Downloads/MI-pwa"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Desktop/pwa"
+		},
+		{
+			"path": "../../../Desktop/PWA nando"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PWA nando"
+	}
+}
